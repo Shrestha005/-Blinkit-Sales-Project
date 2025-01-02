@@ -10,9 +10,9 @@ Welcome to the **Blinkit Sales Analytics Project** repository! This project focu
 
 ## Repository Contents
 
-- **data**: Contains raw and processed datasets used for analysis.
-- **dashboard**: Includes the Power BI .pbix file and related resources.
-- **reports**: Documentation and exported insights from the analysis.
+- **Data**: Contains raw and processed datasets used for analysis.
+- **Dashboard**: Includes the Power BI .pbix file and related resources.
+- **Reports**: Documentation and exported insights from the analysis.
 
 ## Tools Used
 
